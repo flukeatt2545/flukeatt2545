@@ -43,7 +43,6 @@ $ now --caring-about
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=flukeatt2545&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff1a1a&icon_color=ff1a1a&text_color=e8d0d0" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flukeatt2545&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff1a1a&icon_color=ff1a1a&text_color=e8d0d0" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=flukeatt2545&hide_border=true&background=0a0a0a&ring=ff1a1a&fire=ff3b3b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=e8d0d0&dates=9a7070" alt="Streak"/>
 
